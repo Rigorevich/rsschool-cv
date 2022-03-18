@@ -29,4 +29,14 @@ function createPhoneNumber(numbers){
 ```
 ###**Experience**
 ***
-Only practise at university - only hardcore^)
+Only practise at university - only hardcore
+###**Education**
+***
+- **University:** The Belarusian State University of Informatics and Radioelectronics
+- **Courses:**
+    * Youtube courses
+    * FreeCodeCamp
+    * JetBrainsAcademy
+###**English**
+***
+**A2** (I had practicing at university and school)
