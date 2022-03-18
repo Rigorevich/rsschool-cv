@@ -1,22 +1,22 @@
-##**ILYA RIGOREVICH**
+## **ILYA RIGOREVICH**
 ***
-###**My contacts**
+### **My contacts**
 ***
 - **Location:** Minsk, Belarus
 - **Phone numbers:** +375 (29) 911-47-22
 - **Email:** rigorevich268@gmail.com
 - **GitHub:** [Rigorevich-Ilya](https://github.com/Rigorevich)
-###**About me**
+### **About me**
 ***
 I need practice my skills every day, but I usually prefer to get some sleep. I believe I will be better soon.
-###**Skills**
+### **Skills**
 ***
 - HTML (basic)
 - CSS (basic)
 - JavaScript
 - Git
 - C/C++
-###**Code example**
+### **Code example**
 ***
 ```
 function createPhoneNumber(numbers){
@@ -27,17 +27,17 @@ function createPhoneNumber(numbers){
   return format;
 }
 ```
-###**Experience**
+### **Experience**
 ***
 Only practise at university - only hardcore
-###**Education**
+### **Education**
 ***
 - **University:** The Belarusian State University of Informatics and Radioelectronics
 - **Courses:**
     * Youtube courses
     * FreeCodeCamp
     * JetBrainsAcademy
-###**English**
+### **English**
 ***
 **A2** (I had practicing at university and school)
 ***
