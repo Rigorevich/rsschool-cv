@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>HTML & CSS</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.9/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <h1 class = "titleh1">Ilya Rigorevich</h1>
+    </header>
+    <main>
+        <section class="photo_contacts">
+            <img class="photo" src="pictures/71734558.jpeg" alt="photo_cv">
+            <div class="contacts">
+                <h3>Contacts</h3>
+                <ul>
+                    <li>Email: rigorevich268@gmail.com</li>
+                    <li>Phone number: +375(29)29-911-47-22</li>
+                </ul>
+            </div>
+        </section>
+        <section class="general">
+            <h3>About me</h3>
+            <p>I am Front-end developer</p>
+            <h3>Skills</h3>
+            <ul>
+                <li>Git</li>
+                <li>Html</li>
+                <li>CSS</li>
+                <li>Linux</li>
+                <li>SASS</li>
+                <li>JavaScript</li>
+                <li>C/C++</li>
+            </ul>
+            <p>I am a student of BSUIR.</p>
+            <p>Current level of English is A2.</p>
+            <h3>Code example</h3>
+            <details>
+                <summary>JS task "brackets"</summary>
+                <pre><code class="js">function nthFibo(n) {
+  let prev = 0, next = 1;
+  for(let i = 1; i < n; i++){
+    next = prev + next;
+    prev = next - prev;
+  }
+  return prev;
+}
+  }</code></pre>
+            </details>
+        </section>
+    </main>
+    <footer>
+        <p>Github link: <a href="https://github.com/Rigorevich">Rigorevich</a></p>
+        <p>2022,
+            <a href="https://rs.school/js/"><img class="svg" src="pictures/index.png" alt="RSSchool"></a>
+            <a href="https://www.youtube.com/"><img class="svg" src="pictures/index.png" alt="RSSchool"></a>
+        </p>
+    </footer>
+</div>
+</body>
+</html>
